@@ -1,0 +1,27 @@
+{
+    "hi|hello|hey": [
+      "Hello!",
+      "Hi there!",
+      "Hey!"
+    ],
+    "how are you": [
+      "I'm doing well, thanks!",
+      "Great! How are you?",
+      "i'm doing great"
+    ],
+    "what is your name": [
+      "I'm SimpleBot!",
+      "You can call me SimpleBot"
+    ],
+    "bye|goodbye": [
+      "Goodbye!",
+      "See you later!",
+      "Take care!"
+    ],
+    "weather": [
+      "I cannot check the weather, I'm a simple chatbot."
+    ],
+    "help": [
+      "I can chat about basic topics. Try saying hello!"
+    ]
+  }
